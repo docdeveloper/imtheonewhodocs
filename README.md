@@ -7,7 +7,7 @@ I created this design because I think that documentation specialists, like Tech 
 ## License
 The repository is licensed under the MIT License (see the LICENSE file for details).
 
-You can grab these files and use them as you please. For example, you can take the design and make T-shirts, mugs, stickers or just use it as a wallpaper on your computer.
+You can grab the files in the repo and use them as you please. For example, you can take the design and make T-shirts, mugs, stickers or just use it as a wallpaper on your computer.
 
 ## Repository contents
 
